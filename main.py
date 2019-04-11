@@ -7,7 +7,7 @@ mlp = []
 nb = []
 svm = []
 
-for index in range(10):
+for index in range(32):
     classifiers.redo_ds_partitions()
     dst.append(classifiers.dst())
     print('dst ', index)
@@ -22,7 +22,7 @@ for index in range(10):
 
 with open("results.csv", "w") as fp:
     fp.write("Dst, Knn, Mlp, Nb, Svm\n")
-    for index in range(10):
+    for index in range(32):
         fp.write("%f, %f, %f, %f, %f\n" % (dst[index], knn[index], mlp[index], nb[index], svm[index]))
 
     fp.write("\n")
