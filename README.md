@@ -6,10 +6,10 @@
 
 # Especificação
 
-[![Classifiers-Comparison](https://i.imgur.com/OImukPV.png)](http://bfy.tw/NCDR)
-[![Classifiers-Comparison](https://i.imgur.com/muhQBbF.png)](http://bfy.tw/NCDR)
-[![Classifiers-Comparison](https://i.imgur.com/K1OYTMW.png)](http://bfy.tw/NCDR)
-[![Classifiers-Comparison](https://i.imgur.com/ETaE8zi.png)](http://bfy.tw/NCDR)
+[![Classifiers-Comparison](https://i.imgur.com/OImukPV.png)](https://github.com/GaMJun/Classifiers-Comparison/blob/master/Especifica%C3%A7%C3%A3o%20Trabalho%202.pdf)
+[![Classifiers-Comparison](https://i.imgur.com/muhQBbF.png)](https://github.com/GaMJun/Classifiers-Comparison/blob/master/Especifica%C3%A7%C3%A3o%20Trabalho%202.pdf)
+[![Classifiers-Comparison](https://i.imgur.com/K1OYTMW.png)](https://github.com/GaMJun/Classifiers-Comparison/blob/master/Especifica%C3%A7%C3%A3o%20Trabalho%202.pdf)
+[![Classifiers-Comparison](https://i.imgur.com/ETaE8zi.png)](https://github.com/GaMJun/Classifiers-Comparison/blob/master/Especifica%C3%A7%C3%A3o%20Trabalho%202.pdf)
 
 ## Time
 
