@@ -1,0 +1,23 @@
+Dt, Depth, Knn, Weights, K, Mlp, Max Ite, Hidden Layers, Learning Rate, Nb, No Params, Svm, Kernel, Penalty
+0.849711, 1, 0.890173, 1-Distancia Normalizada, 7, 0.878613, 250, 6, adaptive, 0.855491, Default, 0.872832, 0.3,poly
+0.803468, 4, 0.861272, 1-Distancia Normalizada, 5, 0.843931, 100, 12, constant, 0.849711, Default, 0.872832, 0.3,poly
+0.867052, 1, 0.867052, <function OneMinusNormDist at 0x7fbab2044ea0>, 11, 0.867052, 175, 10, constant, 0.838150, Default, 0.855491, 0.3,poly
+0.849711, 1, 0.849711, 1-Distancia Normalizada, 7, 0.838150, 200, 9, adaptive, 0.820809, Default, 0.861272, 0.6,rbf
+0.791908, 6, 0.872832, 1-Distancia Normalizada, 9, 0.890173, 250, 6, constant, 0.867052, Default, 0.867052, 0.2,poly
+0.815029, 7, 0.820809, 1-Distancia Normalizada, 7, 0.826590, 250, 5, constant, 0.826590, Default, 0.826590, 4.7,rbf
+0.867052, 1, 0.849711, <function OneMinusNormDist at 0x7fbab2044ea0>, 5, 0.768786, 75, 14, constant, 0.867052, Default, 0.884393, 0.3,poly
+0.861272, 1, 0.797688, 1-Distancia Normalizada, 3, 0.826590, 75, 8, constant, 0.803468, Default, 0.826590, 0.5,rbf
+0.855491, 1, 0.838150, <function OneMinusNormDist at 0x7fbab2044ea0>, 7, 0.716763, 50, 10, adaptive, 0.843931, Default, 0.867052, 0.2,rbf
+0.861272, 1, 0.861272, <function OneMinusNormDist at 0x7fbab2044ea0>, 11, 0.716763, 225, 3, constant, 0.855491, Default, 0.872832, 1.2,rbf
+0.861272, 1, 0.861272, 1-Distancia Normalizada, 5, 0.872832, 150, 10, invscaling, 0.878613, Default, 0.872832, 0.1,rbf
+0.855491, 6, 0.826590, <function OneMinusNormDist at 0x7fbab2044ea0>, 7, 0.878613, 200, 10, constant, 0.849711, Default, 0.855491, 0.1,poly
+0.861272, 4, 0.867052, 1-Distancia Normalizada, 11, 0.803468, 250, 6, adaptive, 0.838150, Default, 0.872832, 0.4,rbf
+0.861272, 6, 0.907514, <function OneMinusNormDist at 0x7fbab2044ea0>, 7, 0.901734, 125, 14, invscaling, 0.878613, Default, 0.878613, 0.7,rbf
+0.855491, 1, 0.861272, <function OneMinusNormDist at 0x7fbab2044ea0>, 13, 0.872832, 175, 13, constant, 0.832370, Default, 0.855491, 0.1,rbf
+0.855491, 1, 0.843931, 1-Distancia Normalizada, 5, 0.791908, 125, 12, invscaling, 0.838150, Default, 0.838150, 1.2,rbf
+0.815029, 1, 0.855491, <function OneMinusNormDist at 0x7fbab2044ea0>, 13, 0.803468, 250, 7, invscaling, 0.820809, Default, 0.843931, 3.0,rbf
+0.861272, 1, 0.890173, 1-Distancia Normalizada, 11, 0.867052, 100, 14, invscaling, 0.855491, Default, 0.872832, 0.2,poly
+0.843931, 1, 0.872832, 1-Distancia Normalizada, 11, 0.855491, 200, 6, adaptive, 0.843931, Default, 0.849711, 0.2,rbf
+0.884393, 1, 0.878613, 1-Distancia Normalizada, 5, 0.855491, 250, 6, adaptive, 0.855491, Default, 0.884393, 0.1,rbf
+
+0.848844, , 0.858671, , , 0.833815, , , , 0.845954, , 0.861561, ,
